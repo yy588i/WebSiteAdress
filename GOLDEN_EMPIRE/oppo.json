@@ -12,6 +12,6 @@
 		"order": 190000,
 		"parentChapterId": 407,
 		"type": 0,
-		"userControlSetTop": false,
+		"userControlSetTop": true,
 		"visible": 0
 }
